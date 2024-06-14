@@ -1,4 +1,5 @@
-## Hi there 👋
+## Oi pessoal! Eu sou a Maria Rita Silva e estou aprendendo programação básica!
+Contato: 00001107223805sp@al.educacao.sp.gov.br
 
 <!--
 **mariarita3adim/mariarita3adim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
